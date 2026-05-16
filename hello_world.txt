@@ -1,0 +1,1 @@
+Hi, this is my real first Git tutorial and the Odin project is awesome.
